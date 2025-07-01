@@ -40,3 +40,14 @@ The tool connects to a MySQL database containing 11,700 exercises across 78 uniq
 - **sqlite3**: SQLite database library
 - **ts-node**: TypeScript execution environment
 - **vuetify-nuxt-module**: Vuetify module for Nuxt.js
+
+
+## Demo
+
+### Login/Registration
+
+
+### Exercises and AI Feedback
+
+
+### Dashboard
