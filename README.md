@@ -12,8 +12,7 @@ The AI Python Programming Exercise Generator is designed for Computer Science un
 
 The tool connects to a MySQL database containing 11,700 exercises across 78 unique topics from the "Introduction to Python Programming" course catalog. These exercises span 5 different types and 3 difficulty levels, with 10 unique exercises per difficulty level. The database tracks student activity, including exercises retrieved, attempted, coding history, and keystrokes.
 
-![Webapplication Flow Chart](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/Webapp%20Flowchart.jpg)
-
+![Webapp Flowchart.jpg](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/Webapp%20Flowchart.jpg)
 
 ## Technology Stack
 
@@ -41,13 +40,31 @@ The tool connects to a MySQL database containing 11,700 exercises across 78 uniq
 - **ts-node**: TypeScript execution environment
 - **vuetify-nuxt-module**: Vuetify module for Nuxt.js
 
-
 ## Demo
 
-### Login/Registration
-![Webapplication Flow Chart](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/Sign%In%Page.jpg)
-![Webapplication Flow Chart](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/Registration%Page.jpg)
-### Exercises and AI Feedback
+### Authentication
+![Sign In Page.png](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/Sign%20In%20Page.png)
+![Registration Page.png](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/Registration%20Page.png)
 
+### Dashboard & User Progress
+![Dashboard.png](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/Dashboard.png)
 
-### Dashboard
+### Coding Exercises with AI Feedback
+![Coding Exercise Page (AI Feedback Full).png](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/Coding%20Exercise%20Page%20%28AI%20Feedback%20Full%29.png)
+
+### Troubleshooting Exercises
+![Troubleshooting Page (AI Feedback).png](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/Troubleshooting%20Page%20%28AI%20Feedback%29.png)
+
+### Parsons Problem
+![Parsons Page (Correct Solution).png](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/Parsons%20Page%20%28Correct%20Solution%29.png)
+
+### Multiple Choice Questions (MCQ)
+![MCQ Page (Interacted).png](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/MCQ%20Page%20%28Interacted%29.png)
+
+### Fill in the Blanks
+![FIB Page (Default).png](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/FIB%20Page%20%28Default%29.png)
+![FIB Page (Interacted).png](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/FIB%20Page%20%28Interacted%29.png)
+
+### Video Demo
+[Watch Full Demo (MP4)](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/demo.mp4)
+
