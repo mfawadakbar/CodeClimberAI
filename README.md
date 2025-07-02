@@ -45,8 +45,8 @@ The tool connects to a MySQL database containing 11,700 exercises across 78 uniq
 ## Demo
 
 ### Login/Registration
-
-
+![Webapplication Flow Chart](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/Sign%In%Page.jpg)
+![Webapplication Flow Chart](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/Registration%Page.jpg)
 ### Exercises and AI Feedback
 
 
