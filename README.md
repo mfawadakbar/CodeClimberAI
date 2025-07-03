@@ -40,9 +40,10 @@ The tool connects to a MySQL database containing 11,700 exercises across 78 uniq
 - **ts-node**: TypeScript execution environment
 - **vuetify-nuxt-module**: Vuetify module for Nuxt.js
 
-## Demo
-### Video Demo
+## Video Demo
 Box Video: https://usu.box.com/s/bpwfmknfnypi79o09s29bif2pbvct374
+
+## Screenshot Demo
 ### Authentication
 ![](https://github.com/mfawadakbar/CodeClimberAI/blob/53d3a751e0080074210846f917359af22ff87ce6/Sign%20In%20Page.png)
 ![](https://github.com/mfawadakbar/CodeClimberAI/blob/53d3a751e0080074210846f917359af22ff87ce6/Registration%20Page.png)
@@ -66,5 +67,3 @@ Box Video: https://usu.box.com/s/bpwfmknfnypi79o09s29bif2pbvct374
 ![](https://github.com/mfawadakbar/CodeClimberAI/blob/53d3a751e0080074210846f917359af22ff87ce6/FIB%20Page%20%28Default%29.png)
 ![](https://github.com/mfawadakbar/CodeClimberAI/blob/53d3a751e0080074210846f917359af22ff87ce6/FIB%20Page%20%28Interacted%29.png)
 
-### Video Demo
-[Watch Full Demo (MP4)](https://github.com/mfawadakbar/ai_exercise_generator/blob/master/demo.mp4)
