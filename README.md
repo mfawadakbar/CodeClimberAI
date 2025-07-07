@@ -1,4 +1,5 @@
-# AI Exercise Generator
+# This Repo Demo's my project CodeMasterAI
+The app has not been published yet due to data privacy and some security conerns that are being addressed before making it public.
 
 ## Description
 
